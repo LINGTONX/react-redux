@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LINGTONX/react-redux/static/css/main.95c63ac5.chunk.css",
+    "main.js": "/LINGTONX/react-redux/static/js/main.b3f18533.chunk.js",
+    "main.js.map": "/LINGTONX/react-redux/static/js/main.b3f18533.chunk.js.map",
+    "runtime-main.js": "/LINGTONX/react-redux/static/js/runtime-main.04ea4f3b.js",
+    "runtime-main.js.map": "/LINGTONX/react-redux/static/js/runtime-main.04ea4f3b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/LINGTONX/react-redux/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6e0dc781.chunk.js": "/LINGTONX/react-redux/static/js/2.6e0dc781.chunk.js",
+    "static/js/2.6e0dc781.chunk.js.map": "/LINGTONX/react-redux/static/js/2.6e0dc781.chunk.js.map",
+    "index.html": "/LINGTONX/react-redux/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/LINGTONX/react-redux/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.95c63ac5.chunk.css.map": "/LINGTONX/react-redux/static/css/main.95c63ac5.chunk.css.map",
+    "static/js/2.6e0dc781.chunk.js.LICENSE.txt": "/LINGTONX/react-redux/static/js/2.6e0dc781.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04ea4f3b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6e0dc781.chunk.js",
+    "static/css/main.95c63ac5.chunk.css",
+    "static/js/main.b3f18533.chunk.js"
+  ]
+}
